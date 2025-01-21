@@ -1,7 +1,5 @@
-echo "# YOLO11_Detect-Track" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/DuckinGerman/YOLO11_Detect-Track.git
-git push -u origin main
+Use step :
+1. unzip ultralytics
+2. open tracking file
+3. change the video path and ouput path
+4. run
